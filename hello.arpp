@@ -1,0 +1,4 @@
+push $21
+pop @2001
+push @2001
+wait
